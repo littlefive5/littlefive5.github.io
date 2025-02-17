@@ -14,7 +14,181 @@
       
       <guid>https://littlefive5.github.io/publication/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;(*: Equal contribution). See full list in &lt;a target=&#34;_blank&#34; href=&#34;https://scholar.google.com/citations?user=nAagIwEAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Knowledge Circuits in Pretrained Transformers.&lt;/h4&gt;
+  &lt;div&gt;&lt;b&gt;Yunzhi Yao&lt;/b&gt;, Ningyu Zhang, Zekun Xi, Mengru Wang, Ziwen Xu, Shumin Deng, Huajun Chen.&lt;/div&gt;
+  &lt;div&gt;In Proceedings of the 38th Neural Information Processing Systems (&lt;b&gt;Neurips 2024&lt;/b&gt;)&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2405.17969&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/KnowledgeCircuits&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://www.youtube.com/watch?v=qDgCLeDs4Kg&#34;&gt;Video&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Exploring Model Kinship for Merging Large Language Models.&lt;/h4&gt;
+  &lt;div&gt;Yedi Hu, &lt;b&gt;Yunzhi Yao&lt;/b&gt;, Ningyu Zhang, Shumin Deng, Huajun Chen.&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2410.12613&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/ModelKinship&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Benchmarking Chinese Knowledge Rectification in Large Language Models.&lt;/h4&gt;
+  &lt;div&gt;Tianhe Lu, Jizhan Fang, &lt;b&gt;Yunzhi Yao&lt;/b&gt;, Xin Xu, Ningyu Zhang, Huajun Chen.&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2409.05806&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/EasyEdit&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Knowledge mechanisms in large language models: A survey and perspective.&lt;/h4&gt;
+  &lt;div&gt;Mengru Wang*, &lt;b&gt;Yunzhi Yao*&lt;/b&gt;, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.&lt;/div&gt;
+  &lt;div&gt;In Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (&lt;b&gt;EMNLP 2024&lt;/b&gt;)&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2407.15017&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;  
+&lt;/li&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;A comprehensive study of knowledge editing for large language models.&lt;/h4&gt;
+  &lt;div&gt;Ningyu Zhang*, &lt;b&gt;Yunzhi Yao*&lt;/b&gt;, Bozhong Tian*, Peng Wang*, Shumin Deng*, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen.&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2401.01286&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;  
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Unveiling the pitfalls of knowledge editing for large language models.&lt;/h4&gt;
+  &lt;div&gt;Zhoubo Li, Ningyu Zhang, &lt;b&gt;Yunzhi Yao&lt;/b&gt;, Mengru Wang, Xi Chen, Huajun Chen.&lt;/div&gt;
+  &lt;div&gt;In Proceedings of the 12th International Conference on Learning Representations (&lt;b&gt;ICLR 2023&lt;/b&gt;)&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2310.02129&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/PitfallsKnowledgeEditing&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Editing Large Language Models: Problems, Methods, and Opportunities.&lt;/h4&gt;
+  &lt;div&gt;&lt;b&gt;Yunzhi Yao*&lt;/b&gt;, Peng Wang*, Bozhong Tian, Siyuan Cheng, Zhoubo Li, Shumin Deng, Huajun Chen, Ningyu Zhang.&lt;/div&gt;
+  &lt;div&gt;In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (&lt;b&gt;EMNLP 2023&lt;/b&gt;)&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2305.13172&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/EasyEdit&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://www.bilibili.com/video/BV1MH4y1S737&#34;&gt;Video&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Knowledge Rumination for Pre-trained Language Models.&lt;/h4&gt;
+  &lt;div&gt;&lt;b&gt;Yunzhi Yao&lt;/b&gt;, Peng Wang, Shengyu Mao, Chuanqi Tan, Fei Huang, Huajun Chen, Ningyu Zhang.&lt;/div&gt;
+  &lt;div&gt;In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (&lt;b&gt;EMNLP 2023&lt;/b&gt;)&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2305.08732&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/knowledge-rumination&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Schema-aware reference as prompt improves data-efficient knowledge graph construction.&lt;/h4&gt;
+  &lt;div&gt;&lt;b&gt;Yunzhi Yao*&lt;/b&gt;, Shengyu Mao*, Ningyu Zhang, Xiang Chen, Shumin Deng, Xi Chen, Huajun Chen.&lt;/div&gt;
+  &lt;div&gt;In Proceedings of the 46th International ACM SIGIR Conference (&lt;b&gt;SIGIR 2023&lt;/b&gt;)&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2210.10709&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/RAP&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;before-2022&#34;&gt;Before 2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Kformer: Knowledge injection in transformer feed-forward layers.&lt;/h4&gt;
+  &lt;div&gt;&lt;b&gt;Yunzhi Yao&lt;/b&gt;, Shaohan Huang, Li Dong, Furu Wei, Huajun Chen, Ningyu Zhang.&lt;/div&gt;
+  &lt;div&gt;In Proceedings of the 11th Natural Language Processing and Chinese Computing (&lt;b&gt;NLPCC 2022&lt;/b&gt;)&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2201.05742&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/Kformer&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;Adapt-and-distill: Developing small, fast and effective pretrained language models for domains.&lt;/h4&gt;
+  &lt;div&gt;&lt;b&gt;Yunzhi Yao&lt;/b&gt;, Shaohan Huang, Wenhui Wang, Li Dong, Furu Wei.&lt;/div&gt;
+  &lt;div&gt;In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 (&lt;b&gt;ACL 2021&lt;/b&gt;)&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2106.13474&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/microsoft/unilm/tree/master/adalm&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style&gt; 
+        .pub-item {
+            display: flex;
+            margin-top: 0;
+            padding-top: 0px;
+            padding-bottom: 6px;
+            justify-content: space-between;
+            flex-direction: row;
+            align-items: center;
+            line-height: 160%
+        }
+        .pub-item .pub-item-url {
+            color: #4183c4;
+            font-size: 14px
+        }
+        .pub-item .pub-item-url a {
+            color: #4183c4;
+            transition: all 150ms ease-in 0s
+        }
+        .pub-item .pub-item-url a:hover {
+            background-color: #4183c4;
+            color: #fff
+        }
+        .pub-item .pub-item-button {
+            margin-left: 0;
+            margin-right: 6px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            padding-left: 5px;
+            padding-right: 5px;
+            border: 1px #4183c4 solid;
+            border-radius: 4px;
+            text-decoration: none
+        }
+        .pub-item .pub-item-title {
+            margin: 0;
+            border: 0;
+            padding: 0;
+            font-size: 16px;
+            font-weight: 700;
+            color: #4183c4
+        }
+        .pub-item .pub-item-title a {
+            color: #4183c4;
+            transition: all 150ms ease-in 0s
+        }
+    &lt;/style&gt;</description>
       
     </item>
     
