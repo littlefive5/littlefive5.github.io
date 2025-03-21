@@ -2,19 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Yunzhi Yao</title>
-    <link>http://localhost:1313/</link>
+    <link>https://littlefive5.github.io/</link>
     <description>Recent content in Home on Yunzhi Yao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Feb 2025 14:25:05 -0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Feb 2025 14:25:05 -0800</lastBuildDate><atom:link href="https://littlefive5.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publication</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://littlefive5.github.io/publication/</link>
       <pubDate>Mon, 17 Feb 2025 14:25:12 -0800</pubDate>
       
-      <guid>http://localhost:1313/publication/</guid>
+      <guid>https://littlefive5.github.io/publication/</guid>
       
       <description>&lt;p&gt;(*: Equal contribution). See full list in &lt;a target=&#34;_blank&#34; href=&#34;https://scholar.google.com/citations?user=nAagIwEAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners.&lt;/h4&gt;
+  &lt;div&gt;&lt;b&gt;Yunzhi Yao&lt;/b&gt;, Jizhan Fang, Jia-Chen Gu, Ningyu Zhang, Shumin Deng, Huajun Chen, Nanyun Peng.&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2503.16356&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/CaKE&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;article class=&#34;pub-item&#34;&gt;
+  &lt;div&gt;
+  &lt;h4 class=&#34;pub-item-title&#34;&gt;How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training.&lt;/h4&gt;
+  &lt;div&gt;Yixin Ou, &lt;b&gt;Yunzhi Yao&lt;/b&gt;, Ningyu Zhang, Hui Jin, Jiacheng Sun, Shumin Deng, Zhenguo Li, Huajun Chen.&lt;/div&gt;
+  &lt;div&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2502.11196&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/DynamicKnowledgeCircuits&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
+  &lt;/article&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -43,7 +66,7 @@
 &lt;article class=&#34;pub-item&#34;&gt;
   &lt;div&gt;
   &lt;h4 class=&#34;pub-item-title&#34;&gt;Benchmarking Chinese Knowledge Rectification in Large Language Models.&lt;/h4&gt;
-  &lt;div&gt;Tianhe Lu*, Jizhan Fang*, &lt;b&gt;Yunzhi Yao*&lt;/b&gt;, Xin Xu, Ningyu Zhang, Huajun Chen.&lt;/div&gt;
+  &lt;div&gt;Jizhan Fang*, Tianhe Lu*, &lt;b&gt;Yunzhi Yao*&lt;/b&gt;, Xin Xu, Ningyu Zhang, Huajun Chen.&lt;/div&gt;
   &lt;div&gt;
   &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://arxiv.org/pdf/2409.05806&#34;&gt;PDF&lt;/a&gt;&lt;/span&gt;
   &lt;span class=&#34;pub-item-url&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; href=&#34;https://github.com/zjunlp/EasyEdit&#34;&gt;Code&lt;/a&gt;&lt;/span&gt;
