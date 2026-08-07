@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Yunzhi Yao</title>
-    <link>https://littlefive5.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Yunzhi Yao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Feb 2025 14:25:05 -0800</lastBuildDate><atom:link href="https://littlefive5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Aug 2026 16:51:41 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redirecting to OctoThinker Notion Page</title>
-      <link>https://littlefive5.github.io/rethinkedit/</link>
+      <link>http://localhost:1313/rethinkedit/</link>
       <pubDate>Fri, 02 May 2025 11:00:00 -0700</pubDate>
       
-      <guid>https://littlefive5.github.io/rethinkedit/</guid>
+      <guid>http://localhost:1313/rethinkedit/</guid>
       
       <description>&lt;p&gt;If you are not redirected automatically, follow this link:
 &lt;a href=&#39;{{ .Params.redirect_url }}&#39;&gt;OctoThinker Notion Page&lt;/a&gt;.&lt;/p&gt;</description>
@@ -21,14 +21,20 @@
     
     <item>
       <title>Publication</title>
-      <link>https://littlefive5.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
       <pubDate>Mon, 17 Feb 2025 14:25:12 -0800</pubDate>
       
-      <guid>https://littlefive5.github.io/publication/</guid>
+      <guid>http://localhost:1313/publication/</guid>
       
       <description>&lt;p&gt;(*: Equal contribution). See the full list on &lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;https://scholar.google.com/citations?user=nAagIwEAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;2026&#34;&gt;2026&lt;/h3&gt;
 &lt;div class=&#34;pub-list&#34;&gt;
+  &lt;article class=&#34;pub-item&#34;&gt;
+      &lt;h4 class=&#34;pub-item-title&#34;&gt;Towards principled knowledge editing methods for large language model reasoning.&lt;/h4&gt;
+      &lt;div class=&#34;pub-authors&#34;&gt;Ningyu Zhang*, &lt;b&gt;Yunzhi Yao*&lt;/b&gt;, Jiaxin Qin,  Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, Shumin Deng, Huajun Chen.&lt;/div&gt;
+      &lt;div class=&#34;pub-venue&#34;&gt;Nature Machine Intelligence&lt;/div&gt;
+      &lt;div class=&#34;pub-links&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;https://www.techrxiv.org/doi/full/10.36227/techrxiv.176240454.46531513/v1&#34;&gt;PDF&lt;/a&gt;&lt;/div&gt;
+    &lt;/article&gt;
   &lt;article class=&#34;pub-item&#34;&gt;
     &lt;h4 class=&#34;pub-item-title&#34;&gt;Energy-Regularized Sequential Model Editing on Hyperspheres.&lt;/h4&gt;
     &lt;div class=&#34;pub-authors&#34;&gt;Qingyuan Liu*, Jia-Chen Gu*, &lt;b&gt;Yunzhi Yao&lt;/b&gt;, Hong Wang, Nanyun Peng.&lt;/div&gt;
@@ -76,11 +82,6 @@
 &lt;/div&gt;
 &lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
 &lt;div class=&#34;pub-list&#34;&gt;
-  &lt;article class=&#34;pub-item&#34;&gt;
-    &lt;h4 class=&#34;pub-item-title&#34;&gt;Rethinking Knowledge Editing in Reasoning Era.&lt;/h4&gt;
-    &lt;div class=&#34;pub-authors&#34;&gt;&lt;b&gt;Yunzhi Yao&lt;/b&gt;, Jiaxin Qin, Ningyu Zhang, Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, Shumin Deng, Nanyun Peng, Huajun Chen.&lt;/div&gt;
-    &lt;div class=&#34;pub-links&#34;&gt;&lt;a class=&#34;pub-item-button&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;https://www.techrxiv.org/doi/full/10.36227/techrxiv.176240454.46531513/v1&#34;&gt;PDF&lt;/a&gt;&lt;/div&gt;
-  &lt;/article&gt;
   &lt;article class=&#34;pub-item&#34;&gt;
     &lt;h4 class=&#34;pub-item-title&#34;&gt;Reflection on Knowledge Editing: Charting the Next Steps.&lt;/h4&gt;
     &lt;div class=&#34;pub-authors&#34;&gt;&lt;b&gt;Yunzhi Yao&lt;/b&gt;, Canyu Chen, Jia-Chen Gu, Shumin Deng, Manling Li, Nanyun Peng.&lt;/div&gt;
